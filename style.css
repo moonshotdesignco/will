@@ -25,12 +25,16 @@ body {
 }
 
 #logo {
-  height: 4.5rem;
+  max-height: 10rem;
   max-width: 100%;
 }
 
 p, a {
   font-weight: 400;
+}
+
+p#copy {
+  font-size: 0.75rem;
 }
 
 a {
